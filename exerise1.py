@@ -9,3 +9,4 @@ nums=[2,7,11,19]
 target=9
 result=sum(nums,target)
 print(result)
+
